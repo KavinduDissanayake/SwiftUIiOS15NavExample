@@ -100,18 +100,18 @@ cd SwiftUI-Navigation-Demo
 open SwiftUI-Navigation-Demo.xcodeproj
 
 2. Use Demo Credentials
-	•	Email: demo@example.com
-	•	Password: demo123
+	•Email: demo@example.com
+	•Password: demo123
 
 3. Explore the App
-	•	Sign in → Navigate tabs → Open details
-	•	Edit profile, adjust settings, or sign out
+	•Sign in → Navigate tabs → Open details
+	•Edit profile, adjust settings, or sign out
 
 
 📘 Learning Resources
-	•	SwiftUI Navigation Best Practices
-	•	WWDC: Advanced Navigation in SwiftUI
-	•	Swift Forums
+	•SwiftUI Navigation Best Practices
+	•WWDC: Advanced Navigation in SwiftUI
+	•Swift Forums
 
 🛠 Troubleshooting
 
@@ -124,20 +124,18 @@ Preview not loading	Add required environment values to #Preview block
 🤝 Contribution
 
 Getting Started
-	1.	Fork this repository
-	2.	Create a new branch: git checkout -b feature/your-feature
-	3.	Commit your changes
-	4.	Submit a pull request 🚀
+	1.Fork this repository
+	2.Create a new branch: git checkout -b feature/your-feature
+	3.Commit your changes
+	4.Submit a pull request 🚀
 
 Guidelines
-	•	Follow SwiftLint rules
-	•	Use #Preview instead of deprecated PreviewProvider
-	•	Ensure all views remain compatible with iOS 15+
+	•Follow SwiftLint rules
+	•Use #Preview instead of deprecated PreviewProvider
+	•Ensure all views remain compatible with iOS 15+
 
 🔖 License
 
 This project is licensed under the MIT License — you are free to use, modify, and distribute it.
-
-
 
 Let me know if you'd like this version exported as a file or need a `CONTRIBUTING.md` or `LICENSE` file as well.
